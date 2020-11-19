@@ -1,9 +1,11 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Window1.xaml](./CS/ScatterPolarLine/Form1.cs) (VB: [Window1.xaml](./VB/ScatterPolarLine/Form1.cs))
+* [Form1.cs](./CS/ScatterPolarLine/Form1.cs) (VB: [Form1.vb](./VB/ScatterPolarLine/Form1.vb))
 <!-- default file list end -->
 # How to bind a Scatter Polar Line Chart to a Data Source
+
+![Scatter Polar Line Chart](https://github.com/DevExpress-Examples/how-to-bind-scatter-polar-line-chart-to-data-source/scatter-polar-line-binding-ex.png)
 
  The following example binds a [Scatter Polar Line Chart](xref:113900) to a data table:
 
