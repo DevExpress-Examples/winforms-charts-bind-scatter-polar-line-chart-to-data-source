@@ -17,6 +17,6 @@
 
 * Call the [Titles.Add](xref:DevExpress.XtraCharts.ChartTitleCollection.Add(DevExpress.XtraCharts.ChartTitle)) method to add a chart's title to the [ChartControl.Titles](xref:DevExpress.XtraCharts.ChartControl.Titles) collection.
 
-![](https://github.com/DevExpress-Examples/how-to-bind-scatter-polar-line-chart-to-data-source/images/scatter-polar-line-binding-ex.png)
+![](https://github.com/DevExpress-Examples/how-to-bind-scatter-polar-line-chart-to-data-source/images/chart.png)
 
 <br/>
