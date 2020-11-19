@@ -5,8 +5,6 @@
 <!-- default file list end -->
 # How to bind a Scatter Polar Line Chart to a Data Source
 
-![Scatter Polar Line Chart](https://github.com/DevExpress-Examples/how-to-bind-scatter-polar-line-chart-to-data-source/images/scatter-polar-line-binding-ex.png)
-
  The following example binds a [Scatter Polar Line Chart](xref:113900) to a data table:
 
 * Create an instance of the [Chart Control](xref:DevExpress.XtraCharts.ChartControl) class and specify the [ChartControl.DataSource](xref:DevExpress.XtraCharts.ChartControl.DataSource) property.
@@ -19,6 +17,6 @@
 
 * Call the [Titles.Add](xref:DevExpress.XtraCharts.ChartTitleCollection.Add(DevExpress.XtraCharts.ChartTitle)) method to add a chart's title to the [ChartControl.Titles](xref:DevExpress.XtraCharts.ChartControl.Titles) collection.
 
+![](https://github.com/DevExpress-Examples/how-to-bind-scatter-polar-line-chart-to-data-source/images/scatter-polar-line-binding-ex.png)
+
 <br/>
-
-
