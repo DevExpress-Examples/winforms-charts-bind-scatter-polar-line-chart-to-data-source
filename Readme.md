@@ -17,5 +17,7 @@
 
 * Call the [Titles.Add](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.ChartTitleCollection.Add(DevExpress.XtraCharts.ChartTitle)) method to add a chart's title to the [ChartControl.Titles](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.ChartControl.Titles) collection.
 
+The result:
+
 ![](images/chart.png)
 <br/>
