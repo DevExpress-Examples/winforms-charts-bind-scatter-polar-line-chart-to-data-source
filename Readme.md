@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to bind a Scatter Polar Line Chart to a Data Source
 
-![Scatter Polar Line Chart](https://github.com/DevExpress-Examples/how-to-bind-scatter-polar-line-chart-to-data-source/scatter-polar-line-binding-ex.png)
+![Scatter Polar Line Chart](https://github.com/DevExpress-Examples/how-to-bind-scatter-polar-line-chart-to-data-source/images/scatter-polar-line-binding-ex.png)
 
  The following example binds a [Scatter Polar Line Chart](xref:113900) to a data table:
 
